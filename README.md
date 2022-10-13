@@ -11,7 +11,7 @@ The website is a pc only view.
 
 - [@HemanthKumar-CN](https://github.com/HemanthKumar-CN)
 - [@mamataingole125](https://github.com/mamataingole125)
-- [@RizwanKhan572](https://github.com/Merk7875)
+- [@RizwanKhan572](https://github.com/RizwanKhan572)
 - [@rvd003](https://github.com/rvd003)
 - [@gkomsai](https://github.com/gkomsai)
 
